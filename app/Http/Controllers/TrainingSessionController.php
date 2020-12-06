@@ -77,7 +77,7 @@ class TrainingSessionController extends Controller
         $this->validate($request, $val);
         
         $last = TrainingSession::where('owner_id', $client)->orderBy('created_at', 'desc')->first();
-        if ($last['session_number'] && $last['session_number'] != '') {
+        if (!empty($last['session_number'])) {
             $number = $last['session_number']+1;
         } else {
             $number = 1;
