@@ -1,0 +1,7 @@
+[16-Oct-2018 16:46:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/astermet/public_html/MasterMetabolic-master/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/astermet/public_html/MasterMetabolic-master/bootstrap/app.php on line 14
+[16-Oct-2018 16:46:08 UTC] PHP Warning:  require(/home3/astermet/public_html/MasterMetabolic-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/astermet/public_html/MasterMetabolic-master/bootstrap/autoload.php on line 17
+[16-Oct-2018 16:46:08 UTC] PHP Warning:  require(/home3/astermet/public_html/MasterMetabolic-master/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/astermet/public_html/MasterMetabolic-master/bootstrap/autoload.php on line 17
+[16-Oct-2018 16:46:08 UTC] PHP Fatal error:  require(): Failed opening required '/home3/astermet/public_html/MasterMetabolic-master/bootstrap/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/astermet/public_html/MasterMetabolic-master/bootstrap/autoload.php on line 17

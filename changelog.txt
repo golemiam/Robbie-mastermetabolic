@@ -1,0 +1,38 @@
+2/24/16 - Changelog #1:
+Added ability to use textbox instead of dropdown on nutrition selection
+Added The % for each meal
+Added Ability to modify portion size from program page
+
+2/24/16 - Change #2:
+Fixed bug with meal line item update
+
+4/7/16 - Change #3
+Added Pdf functionality
+Fixed error with apostophy in exercise json
+Fixed issue with copyexercise pulling the wrong program
+
+5/6/16 - Change #4
+Added ability to create and use Program Templates
+
+5/9/16 - Change #5
+Changed logo
+Added User Feilds
+Added User Features Feature
+
+5/25/16 - Change #6
+Added ability to import templates when making/editing templates
+
+8/12/16 - Change #7
+Auto Determine Body fat % from mesurements
+Copy program, dont copy date. Defualt to todays date
+Added Free foods / restaurant food
+Fixed issue with Gender not saving
+
+8/12/16 - Change #8
+Fixed mobile menu on new pages
+Fixed calorie math on nutrition programs
+removed buggy autofill dropdown on exercise programs
+Fixed typo on goal tracker
+
+8/18/16 - Change #9
+Fixed a small bug in the exercise programs causing reps to not save correctly

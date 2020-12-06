@@ -1,0 +1,8 @@
+[16-Oct-2018 17:14:02 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/Circuit.php on line 7
+[16-Oct-2018 17:14:03 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/Circuit.php on line 7
+[16-Oct-2018 17:14:31 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/TrainingSession.php on line 7
+[16-Oct-2018 17:14:53 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/TrainingSession.php on line 7
+[16-Oct-2018 17:17:53 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/TrainingSession.php on line 7
+[16-Oct-2018 17:18:21 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/NutritionProgramTemplate.php on line 7
+[16-Oct-2018 17:27:56 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/NutritionProgram.php on line 7
+[16-Oct-2018 17:27:59 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home3/astermet/public_html/MasterMetabolic-master/app/NutritionProgram.php on line 7

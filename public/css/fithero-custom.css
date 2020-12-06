@@ -1,0 +1,106 @@
+@media print {
+	.site-menu, .site-menubar{
+		display: none;
+	}
+	.page{
+		width: 100%;
+		margin-left: 0px;
+	}
+	.site-menubar-unfold .page, .site-menubar-unfold .site-footer {
+		margin-left: 0px;
+	}
+	body{
+		padding-top: 0px;
+	}
+	.site-menubar-fold .page, .site-menubar-fold .site-footer {
+		margin-left: 0px;
+	}
+	.page-content{
+		padding: 0px;
+	}
+	.printhide{
+		display: none;
+	}
+	button.btn{
+		display: none;
+	}
+	body a[href]:after {
+    content: '';
+	}
+	select.form-control{
+		min-width: 80px;
+	}
+}
+
+.page-title{
+	float: left;
+}
+
+.page-header select.form-control{
+	min-width: 80px;
+}
+
+.label-primary{
+	background-color: #f96868 !important;
+}
+
+.nav-breadcrumb {
+    float: left;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+body .site-navbar{
+	background-color: #3c3f48;
+}
+
+body .navbar-brand{
+	padding-left: 40px;
+}
+
+.modal-lg {
+    width: 1020px;
+}
+
+body .site-menubar{
+	background-color: #2f323a;
+}
+
+.navbar-nav > li > a.navbar-avatar, .navbar-toolbar > li > a.navbar-avatar {
+    padding-bottom: 23px;
+    padding-top: 23px;
+}
+
+.program-header h1{
+	float: left;
+	font-size: 24px;
+	margin-bottom: 0px;
+	line-height: 35px;
+}
+.program-header div{
+	float: right;
+}
+.program-header{
+	padding: 20px;
+}
+.program-header .helpertext{
+	float:left;
+}
+.program-header .links{
+	float: right;
+	padding: 7px;
+}
+.program-header .links a{
+	padding: 4px;
+}
+.navbar-brand-logo{
+	height: 46px;
+}
+body.page-login::before {
+    background-image: none;
+}
+
+.hamburger{
+	display: none;
+}
